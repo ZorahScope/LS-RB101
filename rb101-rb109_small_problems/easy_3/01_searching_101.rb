@@ -1,6 +1,3 @@
-# Write a program that solicits 6 numbers from the user,
-# then prints a message that describes whether or not the 6th number appears amongst the first 5 numbers.
-
 def search_number()
   msg_array = %w[1st 2nd 3rd 4th 5th last]
   num_array = []
